@@ -459,4 +459,5 @@ Project ini dibuat untuk keperluan akademik dan dapat digunakan untuk pembelajar
 
 ---
 
-**© 2024 Kelompok [Nama Kelompok] - Fakultas Sains dan Teknologi**
+
+**© 2024 Kelompok [Kelompok 3] - Fakultas Sains dan Teknologi**
